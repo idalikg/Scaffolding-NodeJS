@@ -1,0 +1,1 @@
+{"version":3,"sources":["../../src/js/operations.js"],"names":["multiplicacion","val1","val2"],"mappings":";;;;;QAAgBA,c,GAAAA,c;AAAT,SAASA,cAAT,CAAwBC,IAAxB,EAA6BC,IAA7B,EAAkC;AACrC,WAAOD,OAAOC,IAAd;AACH","file":"operations.js","sourcesContent":["export function multiplicacion(val1,val2){\r\n    return val1 * val2;\r\n}"]}
